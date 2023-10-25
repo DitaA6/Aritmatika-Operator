@@ -1,0 +1,12 @@
+body {
+    background-color: slategrey;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table {
+    background-color: pink;
+}
